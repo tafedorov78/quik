@@ -1,3 +1,9 @@
+Notice!
+
+I had 2 hours last night. So I was not implemented removing the whole line if it is and further dropping down.
+And that why I made everything in 1 class. But If you do not mind feel free to investigate other repos here. =)
+
+
 # Pixi.js Project #
 
 A generic frontend **Pixi.js** project boiler plate in **TypeScript** using **Webpack**.
@@ -43,12 +49,3 @@ The following command builds the project in production mode.
 
 
 For more predefined commands, see `package.json`, item `scripts`.
-
-## Contributors ##
-
-yahiko
-
-
-## Licence ##
-
-MIT
